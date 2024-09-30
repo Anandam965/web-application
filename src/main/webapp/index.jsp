@@ -16,7 +16,7 @@
         <div align="center">
             <form action="login.jsp">
                 <fieldset id="f">
-                    <legend><font color="green"><h1>Login</h1></font></legend>
+                    <legend><font color="green"><h1><i class="fa-solid fa-right-to-bracket"></i> Login</h1></font></legend>
                     <table>
                         <tr><td> Enter UserName:</td>
                             <td><input type="text" name="a"></td></tr>
