@@ -28,7 +28,7 @@
                     
                     </table>
                     <br>
-                <input type="submit" class="btn btn-primary">
+                <input type="submit">
                 <br><br>
            
                 </fieldset>
